@@ -1,0 +1,11 @@
+C:\Users\userArjen\source\repos\helloWOrld\helloWOrld\bin\Debug\netcoreapp3.0\helloWOrld.exe
+C:\Users\userArjen\source\repos\helloWOrld\helloWOrld\bin\Debug\netcoreapp3.0\helloWOrld.deps.json
+C:\Users\userArjen\source\repos\helloWOrld\helloWOrld\bin\Debug\netcoreapp3.0\helloWOrld.runtimeconfig.json
+C:\Users\userArjen\source\repos\helloWOrld\helloWOrld\bin\Debug\netcoreapp3.0\helloWOrld.runtimeconfig.dev.json
+C:\Users\userArjen\source\repos\helloWOrld\helloWOrld\bin\Debug\netcoreapp3.0\helloWOrld.dll
+C:\Users\userArjen\source\repos\helloWOrld\helloWOrld\bin\Debug\netcoreapp3.0\helloWOrld.pdb
+C:\Users\userArjen\source\repos\helloWOrld\helloWOrld\obj\Debug\netcoreapp3.0\helloWOrld.csprojAssemblyReference.cache
+C:\Users\userArjen\source\repos\helloWOrld\helloWOrld\obj\Debug\netcoreapp3.0\helloWOrld.AssemblyInfoInputs.cache
+C:\Users\userArjen\source\repos\helloWOrld\helloWOrld\obj\Debug\netcoreapp3.0\helloWOrld.AssemblyInfo.cs
+C:\Users\userArjen\source\repos\helloWOrld\helloWOrld\obj\Debug\netcoreapp3.0\helloWOrld.dll
+C:\Users\userArjen\source\repos\helloWOrld\helloWOrld\obj\Debug\netcoreapp3.0\helloWOrld.pdb
